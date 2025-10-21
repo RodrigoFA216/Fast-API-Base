@@ -3,6 +3,7 @@ anyio==4.11.0
 exceptiongroup==1.3.0
 fastapi==0.119.1
 idna==3.11
+pillow==12.0.0
 pydantic==2.12.3
 pydantic_core==2.41.4
 sniffio==1.3.1
